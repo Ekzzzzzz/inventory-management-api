@@ -1,0 +1,17 @@
+# .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+TestResults/
+publish/
+
+# Secretos - NUNCA subir esto
+appsettings.Development.json
+secrets.json
+*.pfx
+
+# General
+.DS_Store
+Thumbs.db
+*.log
